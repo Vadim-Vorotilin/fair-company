@@ -28,3 +28,8 @@
 1. _Decentralisation_. A centralised system is inflexible and thus has higher chances to fail in a constantly changing environment.
 2. _Each member may make a decision_. Based on the axiom “nobody’s perfect”, a system as a whole has higher chances of survival if each of its elements has freedom of action.
 3. _All experience should be aggregated and documented_. There’s no bad experience. Any experience has its findings and results. The system should use and not ignore those to its benefit.
+
+## Notes ##
+
+- Even though these ideas might seem anarchistic, they should be used in balance by first thinking and discussing and then applying.
+- The target size of a Fair Company is from 1 to 20 people.
