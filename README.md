@@ -1,4 +1,6 @@
-# Postulates #
+# Manifesto # 
+
+## Postulates ##
 
 1. The only reason to maintain the company is to pursue common interests of both the members and the clients.
     Consequently this means:
