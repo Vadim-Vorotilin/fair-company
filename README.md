@@ -10,7 +10,7 @@
     - The members have a right for a happy life filled with positive emotions.
     - The clients should be happy with our work and hence have more positive emotions in their lives.
 
-2. Each member may decide on their own how, when, with whom, and where to carry out their professional activities (see Antifragility p.2).
+2. Each member may decide on their own how, when, with whom, and where to carry out their professional activities (see [Antifragility](philosophy.md#antifragility) p.2).
     This means that each member has to have a set of mental, social and professional abilities:
     - Empathy
     - Friendliness
